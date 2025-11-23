@@ -18,10 +18,6 @@ function Hero() {
           <button className="hero__search-button">Search</button>
         </div>
       </div>
-      <div className="hero__image-placeholder">
-        {/* In a real project you would put an actual image here */}
-        <span>Hero image</span>
-      </div>
     </section>
   );
 }

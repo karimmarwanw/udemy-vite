@@ -1,6 +1,3 @@
-// All dummy data is stored here in simple JS arrays/objects
-// so that you can reuse it later (for filtering, dynamic pages, etc.)
-
 export const categories = [
   { id: 1, label: 'Development' },
   { id: 2, label: 'Business' },
